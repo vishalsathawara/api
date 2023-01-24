@@ -1,23 +1,10 @@
 {
-  "students" : [
+  "employee" : [
     {
       "id" : 1,
-      "stuname" :"vishal",
-      "email":"vishl@gmail.com"
-    },
-      {
-      "id" : 2,
-      "stuname" :"vish",
-      "email":"vis@gmail.com"
-    },
-      {
-      "id" : 3,
-      "stuname" :"vi",
-      "email":"vi@gmail.com"
-    },      {
-      "id" : 4,
-      "stuname" :"vishal sathvara",
-      "email":"vishal sathvara@gmail.com"
+      "name" :"vishal",
+      "email":"vishl@gmail.com",
+      "phone":"9978391497"
     }
   ]
 }
